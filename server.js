@@ -4,7 +4,7 @@ const express = require('express');
 const bodyParser = require('body-parser'); // parser for post requests
 
 // Constants
-const PORT = 3000;
+const PORT = 8080;
 const HOST = '0.0.0.0';
 
 // App
